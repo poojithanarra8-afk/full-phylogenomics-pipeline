@@ -1,0 +1,4 @@
+bootstrap_replicates: 1000
+model: MFP
+threads: AUTO
+trim_method: automated1
